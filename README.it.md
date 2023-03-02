@@ -5,7 +5,7 @@
 [![Satispay Donate](https://img.shields.io/badge/Satispay-Donate%20to%20Author-red.svg)](https://tag.satispay.com/progressify) 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/progressify/pc2yt/issues)
 
-[Qui puoi trovare la versione italiana di questo README](README.it.md)
+[Here you find the english version of this README](README.md)
 
 A small hack to automatically upload Podcast audios to YouTube. The code is not pretty (and the required setup neither).
 
